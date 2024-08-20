@@ -7,13 +7,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: Third-year student at a Scientific High School with a strong focus on technology and sciences.
-- 💻 **Coding Passion**: I love crafting code and building projects that solve real problems. My key programming languages are:
+- **Education**: Third-year student at a Scientific High School with a strong focus on technology and sciences.
+- **Coding Passion**: I love crafting code and building projects that solve real problems. My key programming languages are:
   - **HTML & CSS**: Creating responsive, visually engaging web pages.
   - **Python**: Writing efficient scripts, automating tasks, and exploring data science.
   - **Java**: Building scalable, high-performance applications.
-- 🌟 **Interests**: I'm fascinated by Artificial Intelligence and plan to dive deeper into Machine Learning and Data Science.
-- 🎯 **Career Goals**: To contribute to impactful open-source projects, collaborate with experienced developers, and prepare for a future in tech.
+- **Interests**: I'm fascinated by Artificial Intelligence and plan to dive deeper into Machine Learning and Data Science.
+- **Career Goals**: To contribute to impactful open-source projects, collaborate with experienced developers, and prepare for a future in tech.
 
 
 
