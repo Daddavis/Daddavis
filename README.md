@@ -12,10 +12,6 @@
   - **HTML & CSS**: Creating responsive, visually engaging web pages.
   - **Python**: Writing efficient scripts, automating tasks, and exploring data science.
   - **Java**: Building scalable, high-performance applications.
-- 🌱 **Currently Learning**: Enhancing my front-end development skills with **JavaScript** and **React**.
-- 💡 **Projects**: I have worked on various projects including:
-  - A personal **portfolio website** that showcases my skills and achievements.
-  - A **Pharmacy Management System** o organize pharmaceutical supplies.
 - 🌟 **Interests**: I'm fascinated by Artificial Intelligence and plan to dive deeper into Machine Learning and Data Science.
 - 🎯 **Career Goals**: To contribute to impactful open-source projects, collaborate with experienced developers, and prepare for a future in tech.
 
