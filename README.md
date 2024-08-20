@@ -1,14 +1,6 @@
 # Welcome to Dadda's GitHub Profile! 👋
 
 <div align="center">
-  <img src="[https://your-image-url.jpg](https://github.com/Daddavis/Daddavis/blob/main/Logo/Senza%20titolo.png)" width="150" height="150" alt="Profile Picture"> <!-- Optional: Add your profile picture -->
-  <h2>Hi, I'm Davide (aka Dadda)!</h2>
-  <p><strong>16-year-old Developer | High School Student | Tech Enthusiast</strong></p>
-</div>
-
----
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74C4C&center=true&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding+%26+tech;Always+learning+something+new!)](https://git.io/typing-svg)
 
