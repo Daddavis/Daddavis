@@ -5,7 +5,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 - **Education**: Third-year student at a Scientific High School with a strong focus on technology and sciences.
 - **Coding Passion**: I love crafting code and building projects that solve real problems. My key programming languages are:
@@ -17,7 +17,7 @@
 
 
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@
 
 
 
-## 🖥️ My Development Setup
+## My Development Setup
 
 <details>
   <summary>Click to view my PC specifications</summary>
@@ -46,7 +46,7 @@
 
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div>
   <p>Let's connect and collaborate!</p>
