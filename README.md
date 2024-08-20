@@ -50,16 +50,6 @@
 
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Dadda's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Dadda's GitHub Streaks">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-
-
 ## 📫 Connect with Me
 
   <p>Let's connect and collaborate!</p>
