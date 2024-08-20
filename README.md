@@ -19,7 +19,7 @@
 - 🌟 **Interests**: I'm fascinated by Artificial Intelligence and plan to dive deeper into Machine Learning and Data Science.
 - 🎯 **Career Goals**: To contribute to impactful open-source projects, collaborate with experienced developers, and prepare for a future in tech.
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -34,7 +34,7 @@
 
 </div>
 
----
+
 
 ## 🖥️ My Development Setup
 
@@ -50,7 +50,7 @@
   </ul>
 </details>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
----
+
 
 ## 📫 Connect with Me
 
@@ -71,7 +71,7 @@
   </a>
   <a href="mailto:davideviscuso@icloud.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
----
+
 
 <div align="center">
   <p><strong>Thank you for visiting my profile!</strong></p>
