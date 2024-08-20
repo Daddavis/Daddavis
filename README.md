@@ -1,6 +1,5 @@
-# Welcome to Dadda's GitHub Profile! 👋
+# Welcome to my GitHub Profile! 👋
 
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74C4C&center=true&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding+%26+tech;Always+learning+something+new!)](https://git.io/typing-svg)
 
