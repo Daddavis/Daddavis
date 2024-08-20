@@ -52,13 +52,14 @@
 
 ## 📫 Connect with Me
 
+<div>
   <p>Let's connect and collaborate!</p>
   <a href="https://instagram.com/davideeviscuso">
     <img src="https://img.shields.io/badge/Instagram-@davideeviscuso-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="mailto:davideviscuso@icloud.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-
+    <img src="https://img.shields.io/badge/Email-Davideviscuso@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</div>
 
 
   <p><strong>Thank you for visiting my profile!</strong></p>
