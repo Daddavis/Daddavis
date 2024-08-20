@@ -64,7 +64,6 @@
 
 ## 📫 Connect with Me
 
-<div align="center">
   <p>Let's connect and collaborate!</p>
   <a href="https://instagram.com/davideeviscuso">
     <img src="https://img.shields.io/badge/Instagram-@davideeviscuso-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
@@ -73,6 +72,5 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 
 
-<div align="center">
+
   <p><strong>Thank you for visiting my profile!</strong></p>
-</div>
